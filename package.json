@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "express": "^4.18.3",
     "prompt": "^1.3.0"
-  }
+  },
+  "name": "comp2068jsframeworks",
+  "description": "lab3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hasan",
+  "license": "ISC"
 }
