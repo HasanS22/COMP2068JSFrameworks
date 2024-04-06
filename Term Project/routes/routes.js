@@ -33,7 +33,7 @@ router.post("/add", upload, (req, res) => {
         } else {
             req.session.message = {
                 type: "success",
-                message: "User added successfully!"
+                message: "Userr added successfuUselly!"
             };
             res.redirect("/");
         }
